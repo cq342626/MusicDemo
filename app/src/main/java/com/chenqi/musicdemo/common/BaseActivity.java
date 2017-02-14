@@ -51,7 +51,7 @@ public class BaseActivity extends AppCompatActivity implements View.OnClickListe
         super.onCreate(savedInstanceState);
         initContentView(R.layout.bottom_base);
         initView();
-//        bindView();
+        bindView();
     }
 
     private void initContentView(int layoutResID) {
