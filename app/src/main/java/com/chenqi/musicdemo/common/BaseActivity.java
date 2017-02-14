@@ -25,7 +25,7 @@ import com.chenqi.musicdemo.R;
 import com.chenqi.musicdemo.service.MusicPlayService;
 
 /**
- * 统一底部的基类activity
+ * 统一底部的基类activity总
  */
 public class BaseActivity extends AppCompatActivity implements View.OnClickListener, SeekBar.OnSeekBarChangeListener {
 
